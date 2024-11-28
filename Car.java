@@ -9,7 +9,8 @@ public class Car extends Vehicle {
 		super();
 	}
 
-	public Car(int noOfDoors, boolean isElectric) {
+	public Car(int noOfDoors, boolean isElectric) 
+	{
 
 		this.noOfDoors = noOfDoors;
 		this.isElectric = isElectric;
