@@ -1,4 +1,4 @@
-package com.infosys.oops;
+package com.infosys.oops ;
 
 public class FixedDeposite extends SavingAccount{
 
