@@ -4,7 +4,7 @@ public class Car extends Vehicle {
 
 	private int noOfDoors;
 	private boolean isElectric;
-
+private int =1998;
 	public Car() {
 		super();
 	}
