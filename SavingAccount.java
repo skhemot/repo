@@ -2,7 +2,7 @@ package com.infosys.oops;
 
 public class SavingAccount extends BankAccount{
 
-	private double interestRate;
+	private double interestRate  ;
 	
 	public SavingAccount(String accountNumber, double balance,double interestRate) {
 		super(accountNumber, balance);
@@ -27,3 +27,4 @@ public class SavingAccount extends BankAccount{
 	
 	
 }
+
