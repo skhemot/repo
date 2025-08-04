@@ -7,7 +7,7 @@ public class Car extends Vehicle {
 private int =19;
 private int a=200;
 //pim qa
-	public Car() {
+	public Car () {
 		super();
 	}
 
@@ -35,6 +35,7 @@ private int a=200;
 	}
 
 }
+
 
 
 
