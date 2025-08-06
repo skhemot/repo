@@ -5,7 +5,7 @@ public class Car extends Vehicle {
 	private int noOfDoors;
 	private boolean isElectric;
 private int =19 ;
-private int a=90 ;
+private int a=9 ;
 //pim q a 
 	//pim q a 
 	//pim q a 
@@ -38,6 +38,7 @@ private int a=90 ;
 	}
 
 }
+
 
 
 
